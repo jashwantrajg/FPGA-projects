@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1_sharedhw_JashwantRaj_Gunaseelan.qarlog
+
+Archive:	/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1_sharedhw_JashwantRaj_Gunaseelan.qar
+Date:		Sun Oct  9 21:48:20 2022
+Quartus Prime		21.1.1 Build 850 06/23/2022 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/SDC1.sdc
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1.qpf
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1.qsf
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1.sv
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1_assignment_defaults.qdf
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/lab1_tb.v
+/nfs/ug/homes-0/g/gunase38/FPGA/lab1/simulation/modelsim/lab1_dump_all_vcd_nodes.tcl
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
